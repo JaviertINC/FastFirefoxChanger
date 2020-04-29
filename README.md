@@ -4,7 +4,7 @@ Un simple script en BATCH, para cambiar/abrir perfiles de Firefox muy rápido
 ----
 
 #### Instalación
-Puedes copiar el archivo en la carpeta
+Puedes copiar el archivo ```ff.bat``` en la carpeta
 ```
 C:\Windows
 ```
